@@ -46,6 +46,12 @@ public class TableSteps {
         }
     }
 
+    @And("^I enter ([^\"]*) and ([^\"]*)$")
+    public void iEnterUsernameAndPassword(String userName, String password) {
+        System.out.println("username is : " + userName);
+        System.out.println("password is : " + password);
+    }
+
     public class User {
         public String username;// alt + insert para crear constructores
         public String password;
