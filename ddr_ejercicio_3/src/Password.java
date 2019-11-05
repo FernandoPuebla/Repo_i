@@ -7,16 +7,16 @@ public class Password
     public Password()
     {
     }
-    public Password()
-    {
-        longitud = 8;
+    public Password(int longitud)
+    { this.longitud = longitud;
         contraseña =  "asdf";
     }
 }
 
+
 static boolean esFuerte()
 {
-
+    Password contra = new Password(10);
 }
 
 public String generarPassword()
