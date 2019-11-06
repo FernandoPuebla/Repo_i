@@ -1,5 +1,6 @@
 package cucumber_table;
 
+import Base.BaseUtil;
 import cucumber.api.DataTable;
 import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
@@ -9,7 +10,14 @@ import cucumber.api.java.en.Then;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TableSteps {
+public class TableSteps extends BaseUtil {
+
+    private BaseUtil base;
+
+    public TableSteps(BaseUtil base) {
+        this.base = base;
+    }
+
     @Given("^I navigate to the login page$")
     public void iNavigateToTheLoginPage() {
     }
@@ -27,6 +35,8 @@ public class TableSteps {
 
     @Then("^I should see the userform page$")
     public void iShouldSeeTheUserformPage() {
+        System.out.println("The driver is " + base.StepInfo);
+        System.out.println("I should see userform page ");
     }
 
     @And("^I enter the following for Login$")
