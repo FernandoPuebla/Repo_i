@@ -1,0 +1,71 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Finding some cheese",
+        "description": "",
+        "id": "find-food;finding-some-cheese",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 326518200,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "I am on the Google search page",
+            "match": {
+              "location": "TemplateSteps.iAmOnTheGoogleSearchPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat cucumber_plantilla.TemplateSteps.iSearchFor(TemplateSteps.java:35)\r\n\tat ✽.I search for \"Cheese!\"(cucumber_plantilla/plantilla.feature:4)\r\n",
+              "duration": 7692300,
+              "status": "pending"
+            },
+            "line": 4,
+            "name": "I search for \"Cheese!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Cheese!",
+                  "offset": 14
+                }
+              ],
+              "location": "TemplateSteps.iSearchFor(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "the page title should start with \"cheese\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "cheese",
+                  "offset": 34
+                }
+              ],
+              "location": "TemplateSteps.thePageTitleShouldStartWith(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Find food",
+    "description": "",
+    "id": "find-food",
+    "keyword": "Feature",
+    "uri": "cucumber_plantilla/plantilla.feature",
+    "tags": []
+  }
+]
