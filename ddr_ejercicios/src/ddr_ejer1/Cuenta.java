@@ -8,13 +8,13 @@ public class Cuenta
 
     public Cuenta(String titularCuenta)
     {
-        titularCuenta = getTitular();
+        titular = titularCuenta;
 
     }
     public Cuenta(String titularCuenta,double cantidadCuenta)
     {
-        titularCuenta = getTitular();
-        cantidadCuenta = getCantidad();
+        titular = titularCuenta;
+        cantidad = cantidadCuenta;
     }
 
     public void ingresar(double cantidadIngresada)
