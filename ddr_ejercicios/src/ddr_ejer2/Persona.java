@@ -2,53 +2,63 @@ package ddr_ejer2;
 
 public class Persona
 {
-    private final static int pesoIdeal = -1;
-    private final static int debajoPeso = 0;
-    private final static int sobrePeso = 1;
+    private final static int PESOIDEAL = -1;
+    private final static int DEBAJOPESO = 0;
+    private final static int SOBREPESO = 1;
+    private final static char SEXODEF = 'H';
 
     private String nombre = " ";
     private int edad = 0;
     private String DNI;
-    private char sexo = 'H';
+    private char sexo;
     private double peso = 0;
     private double altura = 0;
 
-    public Persona(char sexoP)
+    public Persona(int pesoIdealP, int debajoPesoP, int sobrePesoP, char sexoP)
     {
-    sexoP = sexo;
+        pesoIdealP = PESOIDEAL;
+        debajoPesoP = DEBAJOPESO;
+        sobrePesoP = SOBREPESO;
+        sexoP = SEXODEF;
     }
     public Persona(String nombrePersona, int edadPersona, char sexoPersona)
     {
-        nombrePersona = nombre;
-        edadPersona = edad;
-        sexoPersona = sexo;
+        nombre = nombrePersona;
+        edad = edadPersona;
+        sexo = sexoPersona;
     }
-    public Persona(String nombrePersona, int edadPersona,int DNIPersona, char sexoPersona,double pesoPersona, double alturaPersona)
+    public Persona(String nombrePersona, int edadPersona, char sexoPersona,double pesoPersona, double alturaPersona)
     {
-        nombrePersona = nombre;
-        edadPersona = edad;
-        //DNIPersona = DNI;
+        nombre = nombrePersona;
+        edad = edadPersona;
+        //DNI = DNIPersona;
         generaDNI();
-        sexoPersona = sexo;
+        sexo = sexoPersona;
         //comprobarSexo();
-        pesoPersona = peso;
-        alturaPersona = altura;
+        peso = pesoPersona;
+        altura = alturaPersona;
     }
+
+    /*public Persona(String nombre, int edad, char sexo, double peso, double altura) {
+    }*/
 
     public int calcularIMC()
     {
-        double IMC = (peso/(altura*altura));
+        double IMC = peso/ Math.pow(altura,2);
         if(IMC < 20)
         {
-            return pesoIdeal;
+            System.out.println("La persona está en su peso ideal " + IMC);
+            return PESOIDEAL;
         }
         else if(IMC >= 20 && IMC <= 25)
         {
-            return debajoPeso;
+            System.out.println("La persona está debajo de peso ideal " + IMC);
+            return DEBAJOPESO;
         }
         else if (IMC > 25)
         {
-            return sobrePeso;
+            System.out.println("La persona tiene sobrepeso  " + IMC);
+            return SOBREPESO;
         }
         return 2;
     }
@@ -76,9 +86,14 @@ public class Persona
     @Override
     public String toString()
     {
-
+        String sexoS;
+        if (this.sexo != SEXODEF) {
+            sexoS = "mujer";
+        } else {
+            sexoS = "hombre";
+        }
         return "La persona de nombre: " + nombre + " tiene " + edad
-                + " de edad " + " con DNI" + DNI + " y sexo " + sexo
+                + " años de edad, con DNI" + DNI + " y sexo " + sexoS
                 + " pesa " + peso + " kgs " + " y mide " + altura + " cms";
     }
     private void generaDNI()
