@@ -2,10 +2,10 @@ package ddr_ejer4;
 
 public class Electrodomestico
 {
-    private final double precioBaseConst = 100;
-    private final String colorConst = "blanco";
-    private final char consumoEnergeticoConst = 'F';
-    private final double pesoConst = 5;
+    private final double PRECIO_BASE_CONST = 100;
+    private final String COLOR_CONST = "blanco";
+    private final char CONSUMO_ENERGETICO_CONST = 'F';
+    private final double PESO_CONST = 5;
 
     private double precioBase;
     private String color;
@@ -14,10 +14,10 @@ public class Electrodomestico
 
     public Electrodomestico(double precioBaseConstElectrodomestico, String colorConsteElectrodomestico, char consumoEnergeticoConstElectrodomestico, double pesoConstElectrodomestico)
     {
-    precioBaseConstElectrodomestico = precioBaseConst;
-    colorConsteElectrodomestico = colorConst;
-    consumoEnergeticoConstElectrodomestico = consumoEnergeticoConst;
-    pesoConstElectrodomestico = pesoConst;
+    precioBaseConstElectrodomestico = PRECIO_BASE_CONST;
+    colorConsteElectrodomestico = COLOR_CONST;
+    consumoEnergeticoConstElectrodomestico = CONSUMO_ENERGETICO_CONST;
+    pesoConstElectrodomestico = PESO_CONST;
     }
 
     public Electrodomestico(double precioElectrodomestico, double pesoElectrodomestico)
@@ -35,27 +35,34 @@ public class Electrodomestico
         consumoEnergetico = consumoEnergeticoElectrodomestico;
     }
 
-    private void comprobarConsumoEnergetico()
+    private void comprobarConsumoEnergetico(char letra)
     {
-    char letra = ' ';
-    if(letra != 'A' || letra != 'B' || letra =! 'C' || letra =! 'D' || letra =! 'E' || letra =! 'F')
+    if(letra == (char)65 || letra == (char)66 || letra == (char)67 || letra == (char)68 || letra == (char)69 || letra == (char)70)
         {
-            letra = consumoEnergeticoConst;
+            letra = CONSUMO_ENERGETICO_CONST;
             System.out.println("Ingresó una letra errónea, se pondrá el valor por defecto " + letra);
         }
     }
 
     public void comprobarColor(String color)
     {
-        if(color.equals("blanco")  || color != "negro" ||color != "rojo" ||color != "azul" ||color != "gris")
+        if(color.equals("blanco") || color.equals("negro") || color.equals("rojo") || color.equals("azul") || color.equals("gris"))
         {
-            color = colorConst;
-            System.out.println("Ingresó un color erróne, se pondrá el valor por defecto " + color);
+            this.color.equals(color);
+                    }
+        else
+        {
+            color.equals (COLOR_CONST);
+            System.out.println("Ingresó un color erróneo, se pondrá el valor por defecto " + color);
         }
     }
-    public void precioFinal()
+    public double precioFinal()
     {
-
+        if (consumoEnergetico == (char)66)
+        {
+            precioBase = 100;
+        }
+        return 0;
     }
 
 

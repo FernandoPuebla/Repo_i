@@ -16,8 +16,8 @@ public class PasswordApp
         longitud = sc.nextInt();
 
         //Creamos los arrays
-        Password listaPassword=new Password[tamanio];
-        boolean fortalezaPassword=new boolean[tamanio];
+        Password[] listaPassword=new Password[tamanio];
+        boolean[] fortalezaPassword=new boolean[tamanio];
 
         //Creamos objetos, indicamos si es fuerte y mostramos la contraseña y su fortaleza.
         for(int i=0;i<listaPassword.length;i++){

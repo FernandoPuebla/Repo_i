@@ -1,9 +1,9 @@
 package ddr_ejer5;
 
-public class Serie
+public abstract class Serie implements Entregable
 {
-    private final static int numerodeTemporadasDef = 3;
-    private final static boolean entregadoDef = false;
+    private final static int NUM_DE_TEMP_DEF = 3;
+    private final static boolean ENTREGADO_DEF = false;
     private final static int MAYOR = 1;
     private final static int MENOR = -1;
     private final static int IGUAL = 0;
@@ -16,27 +16,33 @@ public class Serie
 
     public Serie()
     {
+        /*numDeTemporadasSerie = NUM_DE_TEMP_DEF;
+        entregadoDefSerie = ENTREGADO_DEF;
+        mayorSerie = MAYOR;
+        menorSerie = MENOR;
+        igualSerie = IGUAL;*/
     }
     public Serie(String tituloSerie, String creadorSerie)
     {
-        tituloSerie = getTitulo();
-        creadorSerie = getCreador();
+        tituloSerie = titulo;
+        creadorSerie = creador;
     }
     public Serie(String tituloSerie, int numeroDeTemporadasSerie,String generoSerie,String creadorSerie)
     {
-        tituloSerie = getTitulo();
-        numeroDeTemporadasSerie = getNumeroDeTemporadas();
-        generoSerie = getGenero();
-        creadorSerie = getCreador();
+        tituloSerie = titulo;
+        numeroDeTemporadasSerie = numeroDeTemporadas;
+        generoSerie = genero;
+        creadorSerie = creador;
     }
 
-   /* @Override
+   @Override
    public String toString()
     {
-
-        return ;
+        return "El titulo de la serie es " + titulo
+        + " tiene " + numeroDeTemporadas + " temporadas "
+        + " el genero es " + genero + " y su creador es " + creador;
     }
-    */
+
 
     public String getTitulo() {
         return titulo;

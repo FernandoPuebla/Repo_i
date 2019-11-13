@@ -2,18 +2,17 @@ package ddr_ejer4;
 
 public class Lavadora extends Electrodomestico
 {
+    private final int CARGA_CONST = 5;
     private int carga;
-
-    private final int cargaConst = 5;
 
     public Lavadora()
     {
-
+        this(PRECIO_BASE_CONST,);
     }
-    public Lavadora(double precio, double peso)
+    public Lavadora(double precioLavadora, double pesoLavadora)
     {
-    precio = pre;
-    peso = getPeso();
+    precio = precioLavadora;
+    peso = pesoLavadora;
     }
     public Lavadora(int cargaLavadora, double precioElectrodomestico, double pesoElectrodomestico,String colorElectrodomestico, char consumoEnergeticoElectrodomestico)
     {
@@ -24,12 +23,14 @@ public class Lavadora extends Electrodomestico
         consumoEnergeticoElectrodomestico = getConsumoEnergetico();
 
     }
-    public void precioFinal(int carga)
+    public double precioFinal()
     {
-        if(carga < 30)
+        double carga = super.precioFinal();
+        if(carga  30)
         {
 
         }
+        return carga;
     }
 
     public int getCarga() {
