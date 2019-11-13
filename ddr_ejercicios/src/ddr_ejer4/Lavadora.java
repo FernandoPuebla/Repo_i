@@ -12,7 +12,7 @@ public class Lavadora extends Electrodomestico
     }
     public Lavadora(double precio, double peso)
     {
-    precio = getPeso();
+    precio = pre;
     peso = getPeso();
     }
     public Lavadora(int cargaLavadora, double precioElectrodomestico, double pesoElectrodomestico,String colorElectrodomestico, char consumoEnergeticoElectrodomestico)
