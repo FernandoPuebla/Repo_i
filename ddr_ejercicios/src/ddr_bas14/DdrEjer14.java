@@ -22,6 +22,7 @@ public class DdrEjer14
         System.out.println("Ingresa el coeficiente c");
         c = sc.nextDouble();
         disc =  (Math.pow(b,2) - (4*a*c));
+        System.out.println(disc);
 
         if (disc == Math.pow(b,2))
         {
@@ -29,8 +30,8 @@ public class DdrEjer14
         }
         else
         {
-            raizP = -b + (Math.sqrt(disc)/(2*a));
-            raizN = -b - (Math.sqrt(disc)/(2*a));
+            raizP = (-b + Math.sqrt(disc))/(2*a);
+            raizN = (-b - Math.sqrt(disc))/(2*a);
             System.out.println("La raiz positiva es: " + raizP);
             System.out.println("La raiz negativa es: " + raizN);
         }
