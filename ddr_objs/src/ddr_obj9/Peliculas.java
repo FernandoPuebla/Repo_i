@@ -14,4 +14,8 @@ public class Peliculas
         edadMin = edadMinP;
         director = directorP;
     }
+
+    public int getEdadMin() {
+        return edadMin;
+    }
 }
