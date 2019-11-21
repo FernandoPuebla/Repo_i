@@ -16,6 +16,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Tq3NmP1fOaAETUXSmiIwGq6Tgm" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IdeaProjects/cucumber_calculator" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,13 +31,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MatCxCEnt">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ddr_mats.Main" />
+  <component name="RunManager" selected="Application.JuegoGato">
+    <configuration name="JuegoGato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ddr_mat9.JuegoGato" />
       <module name="ddr_matrices" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ddr_mat9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -65,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatTxT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ddr_mat1.MatTxT" />
+    <configuration name="MatTxTAleaNoRep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ddr_mat6.MatTxTAleaNoRep" />
       <module name="ddr_matrices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ddr_mat1.*" />
+          <option name="PATTERN" value="ddr_mat6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,19 +98,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MatTxT" />
       <item itemvalue="Application.MatCxC" />
       <item itemvalue="Application.SumMat" />
       <item itemvalue="Application.MatCxCEnt" />
+      <item itemvalue="Application.MatTxTAleaNoRep" />
+      <item itemvalue="Application.JuegoGato" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JuegoGato" />
+        <item itemvalue="Application.MatTxTAleaNoRep" />
         <item itemvalue="Application.MatCxCEnt" />
         <item itemvalue="Application.SumMat" />
         <item itemvalue="Application.MatCxC" />
-        <item itemvalue="Application.MatTxT" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
