@@ -4,27 +4,67 @@ import java.util.Scanner;
 
 public class JuegoGato
 {
+    //NO IMPRIME EL EMPATE
     private final static char CRUZ = 'x',CIRC = 'o', DEF = '-';
     private static char gato[][] = new char[3][3];
     private static char jug1,jug2;
-    private static int c = 0;
+    private static boolean ganador = false;
 
     public static void main(String[] args)
     {
+        int c = 0;
         crearTablero();
         elegirJugador();
-        for (int i = 0;i <= 4;i++)
+        for (int i = 0;i < 4;i++)
         {
+            c = i;
             marcar(jug1);
+            if(c == 4)
+            {
+                System.out.println("Empate");
+                break;
+            }
             contarFilas();
+            if(ganador == true)
+            {
+                break;
+            }
             contarCols();
+            if(ganador == true)
+            {
+                break;
+            }
             contarDiagPrin();
+            if(ganador == true)
+            {
+                break;
+            }
             contarDiagInv();
+            if(ganador == true)
+            {
+                break;
+            }
             marcar(jug2);
             contarFilas();
+            if(ganador == true)
+            {
+                break;
+            }
             contarCols();
+            if(ganador == true)
+            {
+                break;
+            }
             contarDiagPrin();
+            if(ganador == true)
+            {
+                break;
+            }
             contarDiagInv();
+            if(ganador == true)
+            {
+                break;
+            }
         }
     }
 
@@ -153,14 +193,16 @@ public class JuegoGato
                 }
             }if(contCruz == 3)
                 {
-            System.out.println("Ganaste X");
+            System.out.println("Ganaste " + CRUZ);
+            ganador = true;
             break;
                 }else if(contCirc == 3)
         {
-            System.out.println("Ganaste O");
+            System.out.println("Ganaste " + CIRC);
+            ganador = true;
             break;
         }
-            else {contCruz = 0;contCirc = 0;}
+            else {contCruz = 0; contCirc = 0;}
         }
     }
     public static void contarCols()
@@ -180,11 +222,13 @@ public class JuegoGato
                 }
             }if(contCruz == 3)
         {
-            System.out.println("Ganaste " + contCruz);
+            System.out.println("Ganaste " + CRUZ);
+            ganador = true;
             break;
         }else if(contCirc == 3)
             {
-                System.out.println("Ganaste " + contCirc);
+                System.out.println("Ganaste " + CIRC);
+                ganador = true;
                 break;
             }
         else {contCruz = 0;contCirc = 0;}
@@ -199,9 +243,11 @@ public class JuegoGato
                 contCirc++;
             }
         }if (contCruz == 3) {
-            System.out.println("Ganaste " + contCruz);
+            System.out.println("Ganaste " + CRUZ);
+            ganador = true;
         }else  if (contCirc == 3) {
             System.out.println("Ganaste " + contCirc);
+            ganador = true;
         }
         else {contCruz = 0;contCirc = 0;}
     }
@@ -216,11 +262,14 @@ public class JuegoGato
                 j--;
 
         }if (contCruz == 3) {
-            System.out.println("Ganaste " + contCruz);
+            System.out.println("Ganaste " + CRUZ);
+            ganador = true;
         }else if (contCirc == 3) {
             System.out.println("Ganaste " + contCirc);
+            ganador = true;
         } else {contCruz = 0;contCirc = 0;}
     }
+
 
 }
 

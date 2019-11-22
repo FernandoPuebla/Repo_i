@@ -31,13 +31,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JuegoGato">
-    <configuration name="JuegoGato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ddr_mat9.JuegoGato" />
+  <component name="RunManager" selected="Application.Encuesta">
+    <configuration name="Encuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ddr_mat10.Encuesta" />
       <module name="ddr_matrices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ddr_mat9.*" />
+          <option name="PATTERN" value="ddr_mat10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,12 +45,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatCxC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ddr_mat2.MatCxC" />
+    <configuration name="JuegoGato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ddr_mat9.JuegoGato" />
       <module name="ddr_matrices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ddr_mat2.*" />
+          <option name="PATTERN" value="ddr_mat9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +98,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MatCxC" />
       <item itemvalue="Application.SumMat" />
       <item itemvalue="Application.MatCxCEnt" />
       <item itemvalue="Application.MatTxTAleaNoRep" />
       <item itemvalue="Application.JuegoGato" />
+      <item itemvalue="Application.Encuesta" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Encuesta" />
         <item itemvalue="Application.JuegoGato" />
         <item itemvalue="Application.MatTxTAleaNoRep" />
         <item itemvalue="Application.MatCxCEnt" />
         <item itemvalue="Application.SumMat" />
-        <item itemvalue="Application.MatCxC" />
       </list>
     </recent_temporary>
   </component>
