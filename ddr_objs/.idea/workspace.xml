@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29ab9cac-85c4-4d1b-898f-1fc0fa4390f4" name="Default Changelist" comment="" />
+    <list default="true" id="29ab9cac-85c4-4d1b-898f-1fc0fa4390f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj10/BarajaEspaniolaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj11/Porra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj12/Juego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj12/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj12/Revolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj12/RuletaRusa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj13/Comercial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj13/Empleados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj13/EmpleadosApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj13/Repartidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj14/NoPerecedero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj14/Perecedero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj14/Productos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj14/ProductosApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj15/Almacen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj15/Bebidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj16/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj16/AgendaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj16/Contacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ddr_obj18/Academia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_ejer_basi" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejer_basi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_ejer_basi - Copy" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejer_basi - Copy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ddr_obj10/BarajaEspaniola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ddr_obj10/BarajaEspaniola.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +42,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TcySHOd3uWxBsHlCHqibmVRUAc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -29,13 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SalaCineApp">
-    <configuration name="ElectApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ddr_obj4.ElectApp" />
+  <component name="RunManager" selected="Application.ProductosApp">
+    <configuration name="EmpleadosApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ddr_obj13.EmpleadosApp" />
       <module name="ddr_objs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ddr_obj4.*" />
+          <option name="PATTERN" value="ddr_obj13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,6 +83,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ddr_obj6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductosApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ddr_obj14.ProductosApp" />
+      <module name="ddr_objs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ddr_obj14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,33 +129,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VidApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ddr_obj5.VidApp" />
-      <module name="ddr_objs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ddr_obj5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ElectApp" />
-      <item itemvalue="Application.VidApp" />
       <item itemvalue="Application.LibroApp" />
       <item itemvalue="Application.Raices" />
       <item itemvalue="Application.SalaCineApp" />
+      <item itemvalue="Application.EmpleadosApp" />
+      <item itemvalue="Application.ProductosApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductosApp" />
+        <item itemvalue="Application.EmpleadosApp" />
         <item itemvalue="Application.SalaCineApp" />
         <item itemvalue="Application.Raices" />
         <item itemvalue="Application.LibroApp" />
-        <item itemvalue="Application.VidApp" />
-        <item itemvalue="Application.ElectApp" />
       </list>
     </recent_temporary>
   </component>
@@ -124,5 +158,16 @@
       <updated>1573773676770</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
