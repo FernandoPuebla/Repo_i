@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4249981-780c-4b32-b28a-5a7d38a1e77f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UIXeRByVFMkABH5wyjzSIr3Jhz" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EjerLista2Sol">
+    <configuration name="DifHashLinkedHashTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejemplos_listas.DifHashLinkedHashTreeSet" />
+      <module name="dinam_estruc_ejer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejemplos_listas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjerLista1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios_listas.EjerLista1" />
+      <module name="dinam_estruc_ejer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios_listas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjerLista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios_listas.EjerLista2" />
+      <module name="dinam_estruc_ejer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios_listas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjerLista2Sol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios_listas.EjerLista2Sol" />
+      <module name="dinam_estruc_ejer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios_listas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vibora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejemplos_listas.Vibora" />
+      <module name="dinam_estruc_ejer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejemplos_listas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Vibora" />
+      <item itemvalue="Application.DifHashLinkedHashTreeSet" />
+      <item itemvalue="Application.EjerLista1" />
+      <item itemvalue="Application.EjerLista2" />
+      <item itemvalue="Application.EjerLista2Sol" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjerLista2Sol" />
+        <item itemvalue="Application.EjerLista2" />
+        <item itemvalue="Application.EjerLista1" />
+        <item itemvalue="Application.Vibora" />
+        <item itemvalue="Application.DifHashLinkedHashTreeSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4249981-780c-4b32-b28a-5a7d38a1e77f" name="Default Changelist" comment="" />
+      <created>1575045177474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575045177474</updated>
+    </task>
+    <servers />
+  </component>
+</project>

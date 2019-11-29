@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="264c3e23-7bb2-4037-9a5f-7d53ae427ee9" name="Default Changelist" comment="" />
+    <list default="true" id="264c3e23-7bb2-4037-9a5f-7d53ae427ee9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj10_sol/Baraja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj10_sol/Carta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj10_sol/Metodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj10_sol/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj11_sol/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj11_sol/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj11_sol/Metodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj11_sol/MetodosInterfaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj11_sol/Porra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj11_sol/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj11_sol/Resultados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj12_sol/Juego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj12_sol/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj12_sol/Metodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj12_sol/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj12_sol/Revolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj15_sol/AguaMineral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj15_sol/Almacen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj15_sol/Bebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj15_sol/BebidaAzucarada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj15_sol/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj16_sol/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj16_sol/Contacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj16_sol/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj17_sol/Baraja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj17_sol/BarajaEspaniola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj17_sol/BarajaFrancesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj17_sol/Carta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj17_sol/Metodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj17_sol/PalosBarajaEspaniola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj17_sol/PalosBarajaFrancesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj17_sol/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj8_sol/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj8_sol/Aula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj8_sol/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj8_sol/MetodosSueltos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj8_sol/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj8_sol/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj8_sol/Profesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_ejer_basi" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejer_basi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_ejer_basi - Copy" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejer_basi - Copy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_objs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_objs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_objs/out/production/ddr_objs/ddr_obj10/BarajaEspaniola.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_objs/out/production/ddr_objs/ddr_obj10/BarajaEspaniola.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_objs/out/production/ddr_objs/ddr_obj8/Estudiantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_objs/out/production/ddr_objs/ddr_obj8/Estudiantes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_objs/out/production/ddr_objs/ddr_objs/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj10/BarajaEspaniola.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj10/BarajaEspaniola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj12/RuletaRusa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj12/RuletaRusa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj8/Estudiantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_objs/src/ddr_obj8/Estudiantes.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +65,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UD0xPGUMCrk1v4JPelwJOkNgwN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
@@ -84,6 +138,17 @@
       <updated>1574876103351</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

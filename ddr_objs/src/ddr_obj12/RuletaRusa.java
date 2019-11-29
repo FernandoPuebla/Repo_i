@@ -6,7 +6,7 @@ public class RuletaRusa
     {
         Jugador jugador1 = new Jugador();
 
-        jugador1.disparar(10);
+        //jugador1.disparar(10);
 
     }
 }

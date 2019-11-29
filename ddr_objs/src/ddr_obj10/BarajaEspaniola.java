@@ -2,8 +2,9 @@ package ddr_obj10;
 
 public class BarajaEspaniola
 {
-    private int[] numero = {1,2,3,4,5,6,7,10,11,12};
+    private int numero;//
     private String[] palo = {"espadas","bastos","oros","copas"};
+    private int cantidad;
 
     public void barajar()
     {
