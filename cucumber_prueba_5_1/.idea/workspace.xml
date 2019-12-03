@@ -2,59 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0737d2f8-d9c6-4b84-b7ea-708d6d937cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Cucumber_prueba3/Cucumber_prueba3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber_prueba3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cucumber_prueba3/src/main/java/com/company/MyStepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_Array3_Matrices/src/EjercicioMatriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_ArrayList/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_ArrayList/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_ArrayList/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_ArrayList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_Array_Matriz_Indices/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_Array_Matriz_Indices/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_Array_Matriz_Indices/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_Array_Matriz_Indices/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_Array_Matriz_Indices/src/IndicesMatriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_constructor/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_constructor/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_constructor/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_constructor/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_metodo_pasarvalor/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_metodo_pasarvalor/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_metodo_pasarvalor/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_metodo_pasarvalor/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio_metodo_pasarvalor/src/PasarValorMetodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-jvm-template/src/main/java/stepdefs/DemoDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-jvm-template/src/test/java/RunCukesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber-jvm-template/src/test/resource/demo.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_proyecto/src/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_proyectos/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_proyectos/src/test/java/MyStepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_prueba1/shopping.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_prueba1/src/com/company/MyStepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_prueba2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_prueba2/src/MyStepdef2s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_prueba2/src/main/java/com/company/shopping.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_prueba2/src/main/shoppingsteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_prueba4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_prueba4/src/main/java/com/company/demo.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cucumber_prueba4/src/main/java/com/company/demostep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Features/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LoginStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejemplo_constructor_basico/ejemplo_constructor_basico.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejemplo_constructor_basico/src/Pais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_array1/ejercicio_array1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_array1/src/EjercicioArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_array2_string/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_array2_string/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_array2_string/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_array2_string/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_array2_string/src/EjercicioString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_iterador/src/ejercicioIterador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_operarios/src/Operarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_sueldos_operarios/src/Sueldos_Operarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ddr_ejercicio_3/src/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejercicio_3/src/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucumber_prueba3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber_prueba3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber-jvm-template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template/target/test-classes/META-INF/cucumber-jvm-template.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template/target/test-classes/RunCukesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber-jvm-template2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberSeleniumPrueba/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumberSeleniumPrueba/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_plantilla/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_plantilla/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_proyecto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_proyecto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_proyectos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_proyectos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_prueba2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_prueba2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_prueba4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_prueba4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_prueba5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_prueba5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/src/test/java/cucumber_plantilla/TemplateSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/src/test/java/cucumber_plantilla/TemplateSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/RunCucumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/RunCucumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/TemplateSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/TemplateSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/plantilla.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/plantilla.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_selenium/src/test/java/Base/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_selenium/src/test/java/Base/BaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_selenium/target/test-classes/Base/BaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_selenium/target/test-classes/Base/BaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumpru/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumpru/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucuprecom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucuprecom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucuprueba3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucuprueba3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_ejer_basi" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejer_basi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_ejer_basi - Copy" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejer_basi - Copy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_objs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_objs/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +66,9 @@
   </component>
   <component name="ProjectId" id="1TAlxgPOYvQjb95WnrmmfnAcUTL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cucumber_prueba2" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\FernandoPueb_5dvr3\IdeaProjects\cucumber_prueba_5_1\src" />

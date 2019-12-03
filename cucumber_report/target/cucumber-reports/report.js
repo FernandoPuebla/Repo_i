@@ -27,8 +27,7 @@ formatter.match({
   "location": "TemplateSteps.iSearchFor(String)"
 });
 formatter.result({
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat cucumber_plantilla.TemplateSteps.iSearchFor(TemplateSteps.java:35)\r\n\tat ✽.I search for \"Cheese!\"(cucumber_plantilla/plantilla.feature:4)\r\n",
-  "status": "pending"
+  "status": "passed"
 });
 formatter.step({
   "name": "the page title should start with \"cheese\"",
@@ -38,6 +37,6 @@ formatter.match({
   "location": "TemplateSteps.thePageTitleShouldStartWith(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 });

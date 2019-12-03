@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="737034c2-d237-4b3c-aab4-b28dd391a73a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ddr_ejercicios/src/pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber-jvm-template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template/target/test-classes/META-INF/cucumber-jvm-template.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template/target/test-classes/RunCukesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber-jvm-template2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberSeleniumPrueba/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumberSeleniumPrueba/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber_plantilla/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumber_plantilla/RunCucumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber_plantilla/TemplateSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumber_plantilla/TemplateSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/cucumber_plantilla/plantilla.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/cucumber_plantilla/plantilla.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/RunCucumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/RunCucumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/plantilla.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/plantilla.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumpru/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumpru/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucuprecom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucuprecom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucuprueba3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucuprueba3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_ejer_basi" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejer_basi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_ejer_basi - Copy" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejer_basi - Copy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddr_objs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_objs/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +50,7 @@
   <component name="ProjectId" id="1TDL3EWO23QO0JrGsSz6w3TZx8K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cucumber_report" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cucumber_plantilla2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -62,7 +70,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cucumber java.Feature: plantilla">
+    <configuration name="Feature: plantilla" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/cucumber_plantilla/plantilla.feature" />
+      <option name="GLUE" value="cucumber_plantilla" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="cucumber_plantilla" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: plantilla" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cucumber_plantilla" />
       <extension name="coverage">
@@ -80,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Feature: plantilla" />
         <item itemvalue="JUnit.RunCucumberTest" />
       </list>
     </recent_temporary>

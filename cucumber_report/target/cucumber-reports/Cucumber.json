@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "line": 2,
+        "line": 3,
         "name": "Finding some cheese",
         "description": "",
         "id": "find-food;finding-some-cheese",
@@ -12,10 +12,10 @@
         "steps": [
           {
             "result": {
-              "duration": 326518200,
+              "duration": 26363143300,
               "status": "passed"
             },
-            "line": 3,
+            "line": 4,
             "name": "I am on the Google search page",
             "match": {
               "location": "TemplateSteps.iAmOnTheGoogleSearchPage()"
@@ -24,11 +24,10 @@
           },
           {
             "result": {
-              "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat cucumber_plantilla.TemplateSteps.iSearchFor(TemplateSteps.java:35)\r\n\tat ✽.I search for \"Cheese!\"(cucumber_plantilla/plantilla.feature:4)\r\n",
-              "duration": 7692300,
-              "status": "pending"
+              "duration": 3743900,
+              "status": "passed"
             },
-            "line": 4,
+            "line": 5,
             "name": "I search for \"Cheese!\"",
             "match": {
               "arguments": [
@@ -43,9 +42,10 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 542300,
+              "status": "passed"
             },
-            "line": 5,
+            "line": 6,
             "name": "the page title should start with \"cheese\"",
             "match": {
               "arguments": [

@@ -2,57 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29ab9cac-85c4-4d1b-898f-1fc0fa4390f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ddr_estruct_dinam/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj10_sol/Baraja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj10_sol/Carta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj10_sol/Metodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj10_sol/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj11_sol/Constantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj11_sol/Jugador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj11_sol/Metodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj11_sol/MetodosInterfaz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj11_sol/Porra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj11_sol/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj11_sol/Resultados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj12_sol/Juego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj12_sol/Jugador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj12_sol/Metodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj12_sol/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj12_sol/Revolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj15_sol/AguaMineral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj15_sol/Almacen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj15_sol/Bebida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj15_sol/BebidaAzucarada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj15_sol/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj16_sol/Agenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj16_sol/Contacto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj16_sol/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj17_sol/Baraja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj17_sol/BarajaEspaniola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj17_sol/BarajaFrancesa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj17_sol/Carta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj17_sol/Metodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj17_sol/PalosBarajaEspaniola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj17_sol/PalosBarajaFrancesa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj17_sol/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj8_sol/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj8_sol/Aula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj8_sol/Constantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj8_sol/MetodosSueltos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj8_sol/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj8_sol/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddr_obj8_sol/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_report/src/main/resources/ChromeDriver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cucumber_prueba3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber_prueba3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber-jvm-template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template/target/test-classes/META-INF/cucumber-jvm-template.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template/target/test-classes/RunCukesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-jvm-template2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber-jvm-template2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberSeleniumPrueba/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumberSeleniumPrueba/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_plantilla/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_plantilla/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_proyecto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_proyecto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_proyectos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_proyectos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_prueba2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_prueba2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_prueba4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_prueba4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_prueba5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_prueba5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_prueba_5_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_prueba_5_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/src/test/java/cucumber_plantilla/TemplateSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/src/test/java/cucumber_plantilla/TemplateSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/src/test/resources/cucumber_plantilla/plantilla.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/src/test/resources/cucumber_plantilla/plantilla.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/target/cucumber-reports/Cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/target/cucumber-reports/Cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/target/cucumber-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/target/cucumber-reports/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/RunCucumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/RunCucumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/TemplateSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/TemplateSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/plantilla.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_report/target/test-classes/cucumber_plantilla/plantilla.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_selenium/src/test/java/Base/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_selenium/src/test/java/Base/BaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_selenium/target/test-classes/Base/BaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_selenium/target/test-classes/Base/BaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumpru/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumpru/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucuprecom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucuprecom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucuprueba3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucuprueba3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ddr_ejer_basi" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejer_basi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ddr_ejer_basi - Copy" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_ejer_basi - Copy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ddr_estruct_dinam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ddr_estruct_dinam/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ddr_objs/ddr_obj10/BarajaEspaniola.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ddr_objs/ddr_obj10/BarajaEspaniola.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ddr_objs/ddr_obj8/Estudiantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ddr_objs/ddr_obj8/Estudiantes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ddr_objs/ddr_objs/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ddr_obj10/BarajaEspaniola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ddr_obj10/BarajaEspaniola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ddr_obj12/RuletaRusa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ddr_obj12/RuletaRusa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ddr_obj8/Estudiantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ddr_obj8/Estudiantes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +55,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ddr_estruct_dinam" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cucumberSelenium" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
